@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DB\\Desktop\\botao\\",
+  "WorkspaceRootPath": "C:\\Users\\DB\\Desktop\\buttons\\botaoatividaade\\botao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F147C464-C2AF-4AB3-AAF8-176EDE42E881}|botao\\botao.csproj|c:\\users\\db\\desktop\\botao\\botao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F147C464-C2AF-4AB3-AAF8-176EDE42E881}|botao\\botao.csproj|c:\\users\\db\\desktop\\buttons\\botaoatividaade\\botao\\botao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F147C464-C2AF-4AB3-AAF8-176EDE42E881}|botao\\botao.csproj|solutionrelative:botao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F147C464-C2AF-4AB3-AAF8-176EDE42E881}|botao\\botao.csproj|c:\\users\\db\\desktop\\buttons\\botaoatividaade\\botao\\botao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F147C464-C2AF-4AB3-AAF8-176EDE42E881}|botao\\botao.csproj|solutionrelative:botao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DB\\Desktop\\buttons\\botaoatividaade\\botao\\botao\\Form1.cs",
+              "RelativeDocumentMoniker": "botao\\Form1.cs",
+              "ToolTip": "C:\\Users\\DB\\Desktop\\buttons\\botaoatividaade\\botao\\botao\\Form1.cs",
+              "RelativeToolTip": "botao\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T22:57:09.233Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DB\\Desktop\\botao\\botao\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DB\\Desktop\\buttons\\botaoatividaade\\botao\\botao\\Form1.cs",
               "RelativeDocumentMoniker": "botao\\Form1.cs",
-              "ToolTip": "C:\\Users\\DB\\Desktop\\botao\\botao\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\DB\\Desktop\\buttons\\botaoatividaade\\botao\\botao\\Form1.cs [Design]",
               "RelativeToolTip": "botao\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-21T23:31:03.431Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }
